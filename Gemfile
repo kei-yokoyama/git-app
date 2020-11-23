@@ -56,3 +56,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 =======
 >>>>>>> parent of e161f16... コンフリクトA
+
+
+gem 'pry-rails'
